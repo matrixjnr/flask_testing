@@ -1,6 +1,6 @@
 import csv
 
-from matrix import Matrix
+from app.matrix import Matrix
 
 # read matrix.csv
 data = []
